@@ -9,7 +9,7 @@ I'm currently learning
 - How to stop obsessing over my nvim and tmux configs
 - And how to find my place in the world (that's the hard bit)
 
-If you want to reach me, drop me an email at jacksonchristopherthomas@gmail.com
+If you want to reach me, drop me an email at jacksonchristopherthomas@gmail.com<br />
 Or just ring me if you know me like that
 
 Cya!
