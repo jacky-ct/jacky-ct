@@ -1,4 +1,4 @@
-## Hey what's up :)
+## Hey what's up <3
 
 I'm a software dev currently working in the wind industry on some fun stuff -- mostly your bog standard full stack stuff (TS, JS, Express, React/Redux etc) but also some ML/DevOps as well. Wish I could share more but most of it is trapped behind my work GH and general industry secrecy 🤫
 
