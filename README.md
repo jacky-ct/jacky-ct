@@ -1,9 +1,9 @@
-## Hey what's up
+## Hey what's up :)
 
-I'm a software dev currently working in the wind industry on some fun stuff -- mostly your bog standard full stack stuff (TS, JS, Express, ReactRedux etc) but also some ML/DevOps as well. Wish I could share more but most of it is trapped behind my work GH and general industry secrecy 🤫
+I'm a software dev currently working in the wind industry on some fun stuff -- mostly your bog standard full stack stuff (TS, JS, Express, React/Redux etc) but also some ML/DevOps as well. Wish I could share more but most of it is trapped behind my work GH and general industry secrecy 🤫
 
-I'm currently learning
-- Functional programming with Haskell
+I'm currently learning:
+- Functional programming with Haskell (mostly just code challenges)
 - Rust by developing some CLI tooling
 - General good practices by reading more real books (thank you kindle)
 - How to stop obsessing over my nvim and tmux configs
